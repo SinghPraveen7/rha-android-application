@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236381305546",
+    "firebase_url": "https://rhaapp-b92dd.firebaseio.com",
+    "project_id": "rhaapp-b92dd",
+    "storage_bucket": "rhaapp-b92dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236381305546:android:8f0ae1ef5a33b5cfc61233",
+        "android_client_info": {
+          "package_name": "com.example.rha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236381305546-dejn0f6g00shcrh61qk6q1v3poab1s34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rha",
+            "certificate_hash": "17fba55f1bfcc9af07ee7f1521834f7d92ab3a47"
+          }
+        },
+        {
+          "client_id": "236381305546-ui873fkangqiv0ih58hvqdtnr9cd5kkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASaR2TAefgeKy6Bd61Cj2Wkmehm4semq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236381305546-ui873fkangqiv0ih58hvqdtnr9cd5kkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
